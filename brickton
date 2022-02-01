@@ -28,12 +28,12 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-	Title = "EB Aimbot",
-	Text = "your fat nigga",
+	Title = "Aaron Diaz Aimbot",
+	Text = "Huncho is cute.. <3",
 }
 )
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local L_4_ = L_3_.CreateLib("Lock", "BloodTheme")
+local L_4_ = L_3_.CreateLib("Brickton Lock", "BloodTheme")
 local L_5_ = L_4_:NewTab("Aimlock")
 local L_6_ = L_5_:NewSection("East Brickton Lock")
 L_6_:NewButton(
